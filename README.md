@@ -6,8 +6,8 @@ If you use it in your research, please cite:
 @Article{DePalma2022,
         author={De Palma, Alessandro and Bunel, Rudy and Dvijotham, Krishnamurthy and Kumar, M. Pawan and Stanforth, Robert},
         booktitle={ICML 2022 Workshop on Formal Verification of Machine Learning},
-        journal={{IBP} Regularization for Verified Adversarial Robustness via Branch-and-Bound},
-        url={https://arxiv.org/abs/2206.14772},
+        title={{IBP} Regularization for Verified Adversarial Robustness via Branch-and-Bound},
+        volume={abs/2206.14772},
         year={2022},
 }
 ```
